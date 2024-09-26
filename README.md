@@ -5,7 +5,7 @@ const tommcamm = {
     name: "Tommaso Cammelli",
     location: "Copenhagen, Denmark",
     languages: ["Italian", "English", "Danish (Basic)"],
-    programmingLanguages: ["Java", "Rust", "JavaScript", "TypeScript", "Python"],
+    programmingLanguages: ["Java", "Rust", "JavaScript", "TypeScript", "Python3"],
     frameworks: ["Spring", "Tauri", "Actix", "React", "Svelte"],
     operatingSystems: ["GNU/Linux", "Windows"],
     miscTools: ["LaTeX", "Markdown"],
