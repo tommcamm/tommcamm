@@ -12,7 +12,7 @@ const tommcamm = {
     softSkills: ["Problem-Solving", "Teamwork", "Communication"],
 
     education: {
-        current: "Master's in Computer Science @ IT University of Copenhagen (2023 - ongoing)",
+        current: "Master's in Computer Science @ IT University of Copenhagen (Graduated 2025)",
         past: "Bachelor's in Computer Science @ Università degli Studi di Milano-Bicocca (Graduated 2023)"
     },
 
